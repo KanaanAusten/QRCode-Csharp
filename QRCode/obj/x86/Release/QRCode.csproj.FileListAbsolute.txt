@@ -1,0 +1,14 @@
+C:\Users\Kanaan\Desktop\QRCode\QRCode\bin\Release\QRCode.exe
+C:\Users\Kanaan\Desktop\QRCode\QRCode\bin\Release\QRCode.pdb
+C:\Users\Kanaan\Desktop\QRCode\QRCode\bin\Release\zxing.dll
+C:\Users\Kanaan\Desktop\QRCode\QRCode\bin\Release\zxing.pdb
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode.csprojResolveAssemblyReference.cache
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\MainWindow.baml
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\MainWindow.g.cs
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\App.g.cs
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode_MarkupCompile.cache
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode.g.resources
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode.Properties.Resources.resources
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode.csproj.GenerateResource.Cache
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode.exe
+C:\Users\Kanaan\Desktop\QRCode\QRCode\obj\x86\Release\QRCode.pdb
